@@ -1,0 +1,32 @@
+*{
+font-size:110%;
+  
+}
+
+body{
+    display:flex;
+    justify-content: center;
+    align-items:center
+}
+.Picture-of-Day{
+    margin:auto;
+}
+.Picture-of-Day img{
+    max-width:100%;
+  
+    
+}
+h1{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+summary{
+    text-align: center;
+}
+
+@media  (max-width: 750px) {
+
+    
+}
